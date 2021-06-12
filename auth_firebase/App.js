@@ -5,13 +5,13 @@ import Signup from './screens/signupScreen';
 import firebase from 'firebase';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDwG0e6fdIa1gqbuIpTXpRqXndSOGPB-uI",
-  authDomain: "some-tutorial-project.firebaseapp.com",
-  projectId: "some-tutorial-project",
-  storageBucket: "some-tutorial-project.appspot.com",
-  messagingSenderId: "795362819123",
-  appId: "1:795362819123:web:398082c24b26c89294b746",
-  measurementId: "G-VRQFWT8QWZ"
+  apiKey: "api key here",
+  authDomain: "auth domain here",
+  projectId: "project id here",
+  storageBucket: "storage bucket here",
+  messagingSenderId: "messaging sender id here",
+  appId: "app id here",
+  measurementId: "measurement id  here"
 };
 
 firebase.initializeApp(firebaseConfig);
